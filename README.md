@@ -1,1 +1,3 @@
-# not-uygulamasiGeliştirici: Niyazi Cemal Kanberoğlu
+# not-uygulamasi
+
+Geliştirici: Niyazi Cemal Kanberoğlu (main versiyonu)
