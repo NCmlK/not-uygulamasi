@@ -1,1 +1,1 @@
-# not-uygulamasi
+# not-uygulamasiGeliştirici: Niyazi Cemal Kanberoğlu
