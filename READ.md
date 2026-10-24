@@ -1,1 +1,2 @@
-Bu Repo,ders notlarini ve komut aliştirmalarini tutan temel bir not uygulamasidir.
+# Not Uygulamasi
+Bu repo,önemli notları ve komutları tutan bir  başlangıç not uygulamasıdır.
